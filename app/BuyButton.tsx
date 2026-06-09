@@ -52,7 +52,7 @@ export default function BuyButton({ productId }: { productId: string }) {
             product: {
               styles: {
                 imgWrapper: {
-                  'max-height': '350px',
+                  height: '350px',
                   width: '200px',
                   overflow: 'hidden',
                   margin: '0 auto',
